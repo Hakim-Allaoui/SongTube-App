@@ -157,6 +157,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
           print('App detached');
         }
         break;
+      case AppLifecycleState.hidden:
+        // TODO: Handle this case.
+        break;
     }
   }
 
