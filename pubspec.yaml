@@ -39,14 +39,14 @@ dependencies:
   validators: ^3.0.0
   share_plus: ^4.1.0
   device_info_plus: ^4.1.2
-  volume_controller: ^2.0.4
+  volume_controller: ^2.0.7
   screen_brightness: ^0.2.1
   flutter_keyboard_visibility: ^5.3.0
   file_picker: ^5.2.0
   flutter_share: ^2.0.0
   wakelock: ^0.6.2
   pick_or_save: ^2.2.4
-  receive_intent: ^0.2.3
+  receive_intent: ^0.2.4
   flutter_widget_from_html_core: ^0.10.0
   parallax_sensors_bg: ^1.0.0
   external_video_player_launcher: ^0.0.3
@@ -143,7 +143,7 @@ dependencies:
   # NewPipe Extractor
   newpipeextractor_dart:
     git:
-      url: https://github.com/SongTube/NewPipeExtractor_Dart
+      url: https://github.com/Hakim-Allaoui/NewPipeExtractor_Dart
       ref: master
 
   # Apk installer
