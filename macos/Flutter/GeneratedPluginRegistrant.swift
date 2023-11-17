@@ -12,7 +12,7 @@ import dynamic_color
 import just_audio
 import network_info_plus
 import package_info_plus
-import path_provider_foundation
+import path_provider_macos
 import screen_brightness_macos
 import share_plus_macos
 import shared_preferences_foundation

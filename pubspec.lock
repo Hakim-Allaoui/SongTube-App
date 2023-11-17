@@ -318,10 +318,10 @@ packages:
     dependency: transitive
     description:
       name: flutter_inappwebview
-      sha256: f73505c792cf083d5566e1a94002311be497d984b5607f25be36d685cf6361cf
+      sha256: d198297060d116b94048301ee6749cd2e7d03c1f2689783f52d210a6b7aba350
       url: "https://pub.dev"
     source: hosted
-    version: "5.7.2+3"
+    version: "5.8.0"
   flutter_keyboard_visibility:
     dependency: "direct main"
     description:
@@ -656,8 +656,8 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "953603a97faae61f96356ad7a3f766fbfe6ae007"
-      url: "https://github.com/SongTube/NewPipeExtractor_Dart"
+      resolved-ref: "9c7420b8aad436b2b47d201020a98b168fe436ca"
+      url: "https://github.com/Hakim-Allaoui/NewPipeExtractor_Dart"
     source: git
     version: "0.0.1"
   nm:
@@ -872,10 +872,10 @@ packages:
     dependency: "direct main"
     description:
       name: receive_intent
-      sha256: "8e337eb3c021ba177cce615fda1f9353d733144f7b482c269a5c9c948ae595d9"
+      sha256: "84671fa21d7fdbe38c1a658f3b7656afd5e9852e99f25ce6ff80fd5f04cc8b53"
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.3"
+    version: "0.2.4"
   roundcheckbox:
     dependency: "direct main"
     description:
@@ -1286,10 +1286,10 @@ packages:
     dependency: "direct main"
     description:
       name: volume_controller
-      sha256: "3bcaadd0e3298286c4ef3b758a3ea44fc98a9abe24d0e7ef087bfab72a4b6924"
+      sha256: "189bdc7a554f476b412e4c8b2f474562b09d74bc458c23667356bce3ca1d48c9"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.6"
+    version: "2.0.7"
   wakelock:
     dependency: "direct main"
     description:
